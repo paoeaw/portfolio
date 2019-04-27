@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: rgb(165,192,238);
   background: linear-gradient(138deg, rgba(165,192,238,1) 0%, rgba(209,193,237,1) 90%, rgba(215,197,251,1) 100%);
@@ -32,6 +36,7 @@ a:hover {
 
 .info {
   margin-top: 300px;
+  height: 100vh;
 }
 
 .info .links ul {
@@ -42,4 +47,15 @@ a:hover {
 .info .links li {
   display: inline;
   font-size: 24px;
+}
+
+.info .next a {
+  opacity: 1;
+  font-size: 40px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
