@@ -37,7 +37,7 @@ a:hover {
 }
 
 .info {
-  margin-top: 40vh;
+  padding-top: 40vh;
   height: 100vh;
 }
 
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .content {
-  margin-top: 40px;
+  padding-top: 60px;
 }
 
 .projects {
@@ -121,6 +121,7 @@ a:hover {
 }
 
 .footer {
+  margin-top: 50px;
   font-size: 12px;
   font-weight: 300;
 }
