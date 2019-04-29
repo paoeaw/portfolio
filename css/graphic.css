@@ -1,4 +1,8 @@
 .graphic {
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 0 auto 30px;
+}
+
+.graphic-description {
+  width: 230px;
 }

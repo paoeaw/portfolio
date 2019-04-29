@@ -1,4 +1,8 @@
 .illustration {
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 0 auto 30px;
+}
+
+.illustration-description {
+  width: 230px;
 }
