@@ -120,6 +120,11 @@ a:hover {
   transition-delay: 0.1s;
 }
 
+.illustration {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 .footer {
   margin-top: 50px;
   font-size: 12px;
