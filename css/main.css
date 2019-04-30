@@ -40,6 +40,10 @@ a:hover {
   text-decoration: none;
 }
 
+h1 {
+  color: #4E4E4E;
+}
+
 .info {
   padding-top: 40vh;
   height: 100vh;
@@ -64,6 +68,19 @@ a:hover {
   bottom: 0;
   margin-left: auto;
   margin-right: auto;
+}
+
+.content {
+  padding-top: 60px;
+  margin-bottom: 30px;
+}
+
+.content h3 {
+  color: #4E4E4E;
+}
+
+.highlight {
+  background: linear-gradient(180deg, rgba(255,255,255,0) 50%, #F38181 50%);
 }
 
 .footer {
