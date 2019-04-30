@@ -22,6 +22,13 @@
   height: 250px;
 }
 
+.cocktail {
+  background-image: url('../img/cocktail.png');
+  background-size: cover;
+  width: 400px;
+  height: 250px;
+}
+
 .overlay {
   width: 100%;
   height: 100%;
@@ -44,15 +51,15 @@
   font-weight: 300;
 }
 
-.chowtime:hover .overlay, .tours:hover .overlay {
+.chowtime:hover .overlay, .tours:hover .overlay , .cocktail:hover .overlay {
   opacity: 1;
 }
 
-.chowtime:hover .overlay h4, .chowtime:hover .overlay p, .tours:hover .overlay h4, .tours:hover .overlay p {
+.chowtime:hover .overlay h4, .chowtime:hover .overlay p, .tours:hover .overlay h4, .tours:hover .overlay p, .cocktail:hover .overlay h4, .cocktail:hover .overlay p {
   opacity: 1;
   transform: translateY(0px);
 }
 
-.chowtime:hover .overlay p, .tours:hover .overlay p {
+.chowtime:hover .overlay p, .tours:hover .overlay p, .cocktail:hover .overlay p {
   transition-delay: 0.1s;
 }
