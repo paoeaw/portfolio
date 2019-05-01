@@ -3,6 +3,6 @@
   margin: 0 auto 30px;
 }
 
-.illustration-description {
-  width: 230px;
+.cover {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
 }
