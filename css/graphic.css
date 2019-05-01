@@ -1,6 +1,7 @@
 .graphic {
   max-width: 1000px;
-  margin: 0 auto 30px;
+  margin: 0 auto;
+  padding-bottom: 30px;
 }
 
 .graphic-description {
