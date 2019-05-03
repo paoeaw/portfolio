@@ -3,3 +3,11 @@
   margin: 0 auto;
   padding-bottom: 30px;
 }
+
+.logo img {
+  height: 200px;
+}
+
+.eclair img {
+  height: 300px;
+}
