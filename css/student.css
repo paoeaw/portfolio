@@ -1,0 +1,10 @@
+.student {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding-bottom: 30px;
+}
+
+.student img {
+  width: 900px;
+  margin: 8px;
+}
