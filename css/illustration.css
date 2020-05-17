@@ -16,6 +16,10 @@
   width: 200px;
 }
 
+.sticker img {
+  width: 150px;
+}
+
 .digital img {
   height: 400px;
   margin: 8px;
