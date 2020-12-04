@@ -129,7 +129,7 @@ h6 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.ads-card {
+.ads-card, .editorial-card {
   width: 300px;
   height: 300px;
   margin: 20px;
@@ -138,7 +138,7 @@ h6 {
   align-items: center;
 }
 
-.ads-card img {
+.ads-card img, .editorial-card img {
   height: 250px;
 }
 
